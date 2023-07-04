@@ -22,27 +22,15 @@
 
 ![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/portada-estructura-proyecto-python-flask.PNG)
 
-├── app/
-│ ├── controllers/
-│ │ ── controller_home.py
-│ ├── funciones/
-│ │ ── funciones.py
-│ ├── routers/
-| │ ── router.py
-│ ├── static/
-│ ├── templates/
-├── app.py
-└── run.py
-
-├── app/
-│ ├── controllers/
-│ │ └── controller_home.py
-│ ├── funciones/
-│ │ └── funciones.py
-│ ├── routers/
-│ │ └── router.py
-│ ├── static/
-│ ├── templates/
-│ │ └── base_index.html
-├── app.py
-└── run.py
+`├── app/`
+`│ ├── controllers/`
+`│ │ └── controller_home.py`
+`│ ├── funciones/`
+`│ │ └── funciones.py`
+`│ ├── routers/`
+`│ │ └── router.py`
+`│ ├── static/`
+`│ ├── templates/`
+`│ │ └── base_index.html`
+`├── app.py`
+`└── run.py`
