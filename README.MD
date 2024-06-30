@@ -1,22 +1,24 @@
-### Lo primero seria crear tu entorno virtual, ejecutarndo
+# Pasos para correr el proyecto
 
-`virtualenv env`
+### Crear el entorno virtual
+
+    virtualenv env
 
 ### Activas tu entorno virtual
 
-`. env/Scripts/activate`
+    . env/Scripts/activate
 
 ### Luego instalas el Framework de Flask
 
-`pip instal flask`
+    pip instal flask
 
 ### Ahora solo entras a la carpeta app asi:
 
-`cd app/`
+    cd app/
 
 ### Ya solo queda ejecutar la aplicación
 
-` python app.py`
+    python app.py
 
 ## Resultado
 
